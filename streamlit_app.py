@@ -749,7 +749,7 @@ elif page == "Comparison & Conclusion":
 # Generate PDF button
 st.sidebar.markdown("---")
 if st.sidebar.button("Generate PDF Report"):
-    st.sidebar.info("This would generate a PDF report of the analysis in a real deployment on Streamlit app.")
+    st.sidebar.info("This would generate a PDF report of the analysis in a real deployment on Streamlit app. If not working may be because I am using free streamlit cloud space that does not allow wkhtmltopdf")
 
 # Footer
 st.sidebar.markdown("---")
