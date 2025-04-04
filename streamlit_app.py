@@ -20,7 +20,7 @@ st.set_page_config(
 # Title and introduction
 st.title("Algorithmic Trading Analysis: MACD Strategy with SMA and EMA")
 st.markdown("""
-This application presents an analysis of MACD trading strategies using both Simple Moving Averages (SMA) 
+Welcome! This application was created by Dymasius Yusuf Sitepu (G2303593E) presents an analysis of MACD trading strategies using both Simple Moving Averages (SMA) 
 and Exponential Moving Averages (EMA) on four different assets. The analysis includes comparing trading 
 profits across assets and evaluating different parameter sets to determine optimal trading configurations.
 """)
