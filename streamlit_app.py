@@ -749,9 +749,9 @@ elif page == "Comparison & Conclusion":
 # Generate PDF button
 st.sidebar.markdown("---")
 if st.sidebar.button("Generate PDF Report"):
-    st.sidebar.info("This would generate a PDF report of the analysis in a real deployment.")
+    st.sidebar.info("This would generate a PDF report of the analysis in a real deployment on Streamlit app.")
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.markdown("Created by: Algorithmic Trading Analysis Team")
+st.sidebar.markdown("Created by: Dymasius Yusuf Sitepu (G2303593E - dymasius001@e.ntu.edu.sg / e0196756@u.nus.edu) - NTU Algotrading & Robo Advisor")
 st.sidebar.markdown("© 2025 All Rights Reserved")
